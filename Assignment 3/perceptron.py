@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
+# AUTHOR: Ian Chow
 # FILENAME: perceptron.py
 # SPECIFICATION: Train a Single Layer Perceptron and a Multi-Layer Perceptron to classify optically recognized handwritten digits.
 # FOR: CS 4210- Assignment #3
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 8 Hours
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: YOU HAVE TO WORK WITH THE PYTHON LIBRARIES numpy AND pandas to complete this code.
